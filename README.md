@@ -1,4 +1,4 @@
-# django_restaurant_system
+# Django Restaurant System
 An SQLite db, menu and booking system models, admin panel and partial templates.
 
 ### WEBSITE USER FRONT-END
